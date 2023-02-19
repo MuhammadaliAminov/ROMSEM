@@ -1,10 +1,12 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
+import AppComp from "../src/components/AdsComp.vue"
 </script>
 
 <template>
-  <RouterLink to="/">Home</RouterLink>
-  <RouterLink to="/about">Page</RouterLink>
+  <AppComp/>
+  <RouterLink to="/"></RouterLink>
+  <RouterLink to="/about"></RouterLink>
 
 
   <RouterView />
