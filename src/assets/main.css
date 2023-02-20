@@ -1,9 +1,25 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
-    background-color: #E5E5E5;
+body {
+    background: #F2F2F2;
+}
+
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 950px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 13px;
 }
