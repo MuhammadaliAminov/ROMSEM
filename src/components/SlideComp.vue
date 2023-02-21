@@ -15,38 +15,6 @@
                 <a class="slider-item__btn" href="#!">Хочу!</a>
                 <div class="img"><img src="../assets/img/sushi.jpg" alt="sushi"></div>
             </li>
-            <li class="slider__item">
-                <p class="slider-item__title">"Филодельфия и лосось"</p>
-                <p class="slider-item__subTitle">1260 грамм 36 кусочек</p>
-                <p class="slider-item__oldPrice">1599 COM</p>
-                <p class="slider-item__newPrice">599COM</p>
-                <a class="slider-item__btn" href="#!">Хочу!</a>
-                <div class="img"><img src="../assets/img/sushi.jpg" alt="sushi"></div>
-            </li>
-            <li class="slider__item">
-                <p class="slider-item__title">"Филодельфия и лосось"</p>
-                <p class="slider-item__subTitle">1260 грамм 36 кусочек</p>
-                <p class="slider-item__oldPrice">1599 COM</p>
-                <p class="slider-item__newPrice">599COM</p>
-                <a class="slider-item__btn" href="#!">Хочу!</a>
-                <div class="img"><img src="../assets/img/sushi.jpg" alt="sushi"></div>
-            </li>
-            <li class="slider__item">
-                <p class="slider-item__title">"Филодельфия и лосось"</p>
-                <p class="slider-item__subTitle">1260 грамм 36 кусочек</p>
-                <p class="slider-item__oldPrice">1599 COM</p>
-                <p class="slider-item__newPrice">599COM</p>
-                <a class="slider-item__btn" href="#!">Хочу!</a>
-                <div class="img"><img src="../assets/img/sushi.jpg" alt="sushi"></div>
-            </li>
-            <li class="slider__item">
-                <p class="slider-item__title">"Филодельфия и лосось"</p>
-                <p class="slider-item__subTitle">1260 грамм 36 кусочек</p>
-                <p class="slider-item__oldPrice">1599 COM</p>
-                <p class="slider-item__newPrice">599COM</p>
-                <a class="slider-item__btn" href="#!">Хочу!</a>
-                <div class="img"><img src="../assets/img/sushi.jpg" alt="sushi"></div>
-            </li>
         </div>
     </div>
 </template>
